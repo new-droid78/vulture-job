@@ -18,10 +18,10 @@ an state-of-the-art cron job runner open-source easy to use cron job platform
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/new-droid78/vulture-job.git
    cd vulture.job
    ```
-   (Note: Replace `[repository_url]` with the actual URL of your repository if applicable.)
+
 
 2. **Create a virtual environment (recommended):**
    ```bash
